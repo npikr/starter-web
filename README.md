@@ -22,6 +22,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ##How To Continue
 
+Please for this repository and then issu Pull Requests for review.
 
 ### Copyright
 
